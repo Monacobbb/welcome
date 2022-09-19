@@ -8,7 +8,7 @@ namespace Practice_1
     {
         static void Main_1(string[] args)
         {
-            Console.WriteLine("version3");
+            Console.WriteLine("version4");
         }
     }
 }
